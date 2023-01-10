@@ -1,13 +1,4 @@
-# Sample Hardhat Project
+Created an ERC20 token "HelloK".
+Understood the 2 step process to send a token to a smart contract
+Sent some tokens to "Bucket" contract
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
